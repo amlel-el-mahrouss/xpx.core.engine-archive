@@ -1,0 +1,5 @@
+<!-- Server Manifest -->
+
+<DNS IP="10.211.55.8"/>
+<SCENE VFS="GameScene.irr"/>
+<PLUGIN VFS="GameServer.dll"/>
